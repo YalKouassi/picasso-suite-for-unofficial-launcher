@@ -15,6 +15,7 @@ tagline = "Non-linear video editor with Cut, Edit and Deliver pages, all formats
 publisher = "fabox-os"
 bundle_id = "io.github.fabox_os.PicassoSuite"   # upstream's Flatpak, desktop-file and AppStream id
 website = "https://github.com/fabox-os/Picasso-Suite"
+web_demo = "https://playground.daijro.dev/head/picasso-suite/"   # playground.daijro.dev's build of upstream's latest commit
 color = "#d6402b"
 
 [icon]
